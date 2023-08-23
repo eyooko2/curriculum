@@ -61,14 +61,14 @@ Let's write some Python code! Do you remember how to print a message?
 my_age = 20
 legal_age = 18
 if my_age >= legal_age:
-  ???("Enjoy the ride!")
+  print("Enjoy the ride!")
 ```
 
 - print
 - state
 - write
 - log
-
+ 
 ---
 
 ## Footnotes
